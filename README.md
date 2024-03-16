@@ -1,4 +1,4 @@
-# Data Science for Supply Chain Management
+# Data Science for Supply Chain Analysis
 
 All approaches explained in this repository aim to convey the underlying aspects of data science in supply chain practices of modern companies. 
 Introduction section establishes need for data science and ongoing processes in supply chain that use data science. Background describes how supply chain management efficiency and functionality improves using data science methods and tools.
